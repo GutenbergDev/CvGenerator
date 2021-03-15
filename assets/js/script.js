@@ -25,7 +25,7 @@ function closeModal() {
   document.querySelector('.modal').classList.add('disable');
 }
 
-if(window.innerWidth <= 800) {
+if((window.matchMedia("(max-width:800px)").matches) {
   const burger = document.createElement('div');
   burger.innerHTML = `
     <div class="lines"></div>
