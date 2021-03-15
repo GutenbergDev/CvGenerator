@@ -1,7 +1,7 @@
 # Gerador de Currículo
 
-> A ideia do projeto é para fins didáticos pensando em aprimorar conhecimentos.
-> 
+ A ideia do projeto é para fins didáticos pensando em aprimorar conhecimentos.
+
 > ## Linguagens utilizadas no projeto
 >
 > - HTML5
