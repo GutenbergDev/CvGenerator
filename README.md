@@ -9,3 +9,7 @@
 - Node.js
 
 ## Status: Em construção...
+- [x] UI
+- [] HTML/CSS
+- [] Interatividade
+- [] Back-end
