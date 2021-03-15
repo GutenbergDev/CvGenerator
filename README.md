@@ -10,6 +10,6 @@
 
 ## Status: Em construção...
 - [x] UI
-- [] HTML/CSS
-- [] Interatividade
-- [] Back-end
+- [ ] HTML/CSS
+- [ ] Interatividade
+- [ ] Back-end
