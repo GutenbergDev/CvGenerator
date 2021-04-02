@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: 70vw;
+  background-color: red;
+  margin: auto;
+}
+
+.selfie-container {
+  width: 150px;
+  height: 150px;
+}
+
+.selfie {
+  border-radius: 50%;
+}
+
+.bg-modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  width: 70%;
+  padding: 20px;
+  
+  border-radius: 10px;
+  background-color: red;
+}
+
+.modal h1 {
+  padding-bottom: 20px;
+}
+
+.modal .form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal .form h3 {
+  padding-bottom: 10px;
+}
+
+.modal .form input {
+  margin-top: 8px;
+}
+
+.modal .form p {
+  margin-top: 20px;
+
+  padding: .3rem 4rem;
+  background-color: #fff;
+  border-radius: 5px;
+}
